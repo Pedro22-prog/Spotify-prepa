@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118962585884",
+    "project_id": "prepa-spotify",
+    "storage_bucket": "prepa-spotify.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118962585884:android:7a53f43856cb9aa46fbad9",
+        "android_client_info": {
+          "package_name": "com.example.spotify_prepa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvb5sD9L6fT7J7MH6m1nN9sXekWt36VhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
